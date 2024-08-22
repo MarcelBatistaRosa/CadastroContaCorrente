@@ -12,29 +12,30 @@ namespace CadastroContaCorrente
         public int  Conta { get; private set; }
         public string Nome { get; set; }
 
-        public ContaCorrente (string nome, int conta, double saldo)
-        {
-            Nome = nome;
-            Conta = conta;
-            Saldo = saldo;
-        }
-
+        
+        
+        
+        
         public ContaCorrente (string nome, int conta)
         {
             Nome = nome;
             Conta = conta;
-            Saldo = 0;
+            
         }
 
-        public void Deposito (double deposito)
+        public ContaCorrente (string nome, int conta, double depositoInicial) : this (nome, conta)
         {
-            Saldo += deposito;
+          Deposito(depositoInicial);
         }
 
-        public void Saque(double saque)
+        public void Deposito (double quantia)
         {
-            Saldo -= saque;
-            Saldo -= 5;
+            Saldo += quantia;
+        }
+
+        public void Saque (double quantia)
+        {
+            Saldo -= quantia + 5;
         }
 
         public override string ToString()

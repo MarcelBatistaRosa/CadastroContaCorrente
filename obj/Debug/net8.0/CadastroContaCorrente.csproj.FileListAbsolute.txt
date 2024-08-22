@@ -12,3 +12,4 @@ C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\Cada
 C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.pdb
 C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.genruntimeconfig.cache
 C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\ref\CadastroContaCorrente.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.sourcelink.json

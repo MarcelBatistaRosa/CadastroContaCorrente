@@ -19,33 +19,32 @@ namespace CadastroContaCorrente
             
 
             Console.Write("Haverá depósito inicial (s/n): ");
-            string Di = Console.ReadLine();
-            if (Di == "s")
+            char Di = char.Parse(Console.ReadLine());
+            if (Di == 's' || Di == 'S')
             {
                 Console.Write("Entre com o valor do depósito incial: ");
                 double vdi = double.Parse(Console.ReadLine());
                 Cc.Deposito(vdi);
-                Console.WriteLine();
-                Console.WriteLine("Dados da Conta: ");
-                Console.WriteLine(Cc);
             } 
             else
-            {
-                Console.WriteLine();
-                Console.WriteLine("Dados da Conta: ");
-                Console.WriteLine(Cc);
+            {  
             }
 
             Console.WriteLine();
+            Console.WriteLine("Dados da Conta: ");
+            Console.WriteLine(Cc);
+
+
+            Console.WriteLine();
             Console.Write("Entre com o valor para depósito: ");
-            double D = double.Parse(Console.ReadLine());
-            Cc.Deposito(D);
+            double quantia = double.Parse(Console.ReadLine());
+            Cc.Deposito(quantia);
             Console.WriteLine(Cc);
 
             Console.WriteLine();
             Console.Write("Entre com o valor para Saque: ");
-            double S = double.Parse(Console.ReadLine());
-            Cc.Saque(S);
+            quantia = double.Parse(Console.ReadLine());
+            Cc.Saque(quantia);
             Console.WriteLine(Cc);
 
         }
