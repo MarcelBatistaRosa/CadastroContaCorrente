@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mbama\\OneDrive\\Documentos\\CURSOS\\C#_Curso_Completo\\Projetos\\Secao5\\CadastroContaCorrente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5A91DB-3A6B-4210-9FAA-332D35053EC1}|CadastroContaCorrente.csproj|c:\\users\\mbama\\onedrive\\documentos\\cursos\\c#_curso_completo\\projetos\\secao5\\cadastrocontacorrente\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5A91DB-3A6B-4210-9FAA-332D35053EC1}|CadastroContaCorrente.csproj|solutionrelative:contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5A91DB-3A6B-4210-9FAA-332D35053EC1}|CadastroContaCorrente.csproj|c:\\users\\mbama\\onedrive\\documentos\\cursos\\c#_curso_completo\\projetos\\secao5\\cadastrocontacorrente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5A91DB-3A6B-4210-9FAA-332D35053EC1}|CadastroContaCorrente.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\mbama\\OneDrive\\Documentos\\CURSOS\\C#_Curso_Completo\\Projetos\\Secao5\\CadastroContaCorrente\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\mbama\\OneDrive\\Documentos\\CURSOS\\C#_Curso_Completo\\Projetos\\Secao5\\CadastroContaCorrente\\ContaCorrente.cs",
+              "RelativeToolTip": "ContaCorrente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:54:27.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mbama\\OneDrive\\Documentos\\CURSOS\\C#_Curso_Completo\\Projetos\\Secao5\\CadastroContaCorrente\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mbama\\OneDrive\\Documentos\\CURSOS\\C#_Curso_Completo\\Projetos\\Secao5\\CadastroContaCorrente\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwC0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:53:04.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

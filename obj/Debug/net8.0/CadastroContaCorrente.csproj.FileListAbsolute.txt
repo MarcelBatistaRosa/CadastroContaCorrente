@@ -1,0 +1,14 @@
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\bin\Debug\net8.0\CadastroContaCorrente.exe
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\bin\Debug\net8.0\CadastroContaCorrente.deps.json
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\bin\Debug\net8.0\CadastroContaCorrente.runtimeconfig.json
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\bin\Debug\net8.0\CadastroContaCorrente.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\bin\Debug\net8.0\CadastroContaCorrente.pdb
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.AssemblyInfoInputs.cache
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.AssemblyInfo.cs
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\refint\CadastroContaCorrente.dll
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.pdb
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\CadastroContaCorrente.genruntimeconfig.cache
+C:\Users\mbama\OneDrive\Documentos\CURSOS\C#_Curso_Completo\Projetos\Secao5\CadastroContaCorrente\obj\Debug\net8.0\ref\CadastroContaCorrente.dll
